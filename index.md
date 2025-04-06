@@ -15,7 +15,7 @@
 3. Machine Learning
 
 ## Fun Fact About Myself
-> My favorite pokemon is Wooper
+> My favorite pokemon is Wooper.
 
 ## Code
 ```python
